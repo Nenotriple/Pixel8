@@ -10,12 +10,13 @@
   <img src="https://github.com/user-attachments/assets/79d7fc5c-33e2-4067-9788-e959a086a6ca" alt="cover">
 </p>
 
+
 # 📝 Usage
 
 > [!NOTE]
 >  - Supported image types: `.png` `.jpg` `.jpeg` `.jfif` `.jpg_large` `.webp` `.bmp`
 
-This tool is designed to be used with AI-Generated images in the pixel art style. It's common for these images to be generated with *mushed* colors and/or sloppy pixel shaping.
+This tool is designed to be used with AI-generated images in the pixel art style. It's common for these images to be generated with *mushed* colors and/or sloppy pixel shaping. Processing those images with this tool can enhance the pixel art style, and improve image quality.
 
 
 ---
@@ -42,7 +43,7 @@ https://github.com/user-attachments/assets/8d687545-85f6-46a3-90b7-742a6b634b7a
 # 🚩 Requirements
 
 > [!TIP]
-> You don't need to worry about any requirements with the Windows [💾portable/executable]() version.
+> You don't need to worry about any requirements with the Windows [💾portable/executable](https://github.com/Nenotriple/Pixel8/releases/tag/v1.00) version.
 
 <details>
   <summary>Python requirements...</summary>
