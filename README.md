@@ -27,6 +27,18 @@ This tool is designed to be used with AI-Generated images in the pixel art style
 # 💡 Tips and Features
 
 
+Drag-and-Drop images into the entry fields to quickly add their path:
+
+https://github.com/user-attachments/assets/0aa66199-5084-4c46-b0d2-fd60f10c4184
+
+---
+
+Use any other image as a color palette, or pick from a list of predefined color palettes:
+
+https://github.com/user-attachments/assets/8d687545-85f6-46a3-90b7-742a6b634b7a
+
+
+
 # 🚩 Requirements
 
 > [!TIP]
