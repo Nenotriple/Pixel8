@@ -50,7 +50,9 @@ https://github.com/user-attachments/assets/8d687545-85f6-46a3-90b7-742a6b634b7a
   
 **Python 3.10+**
 
-You will need `Pillow`, `NumPy`, `TkinterDnD2`, and `scikit-learn`:
-- `pip install pillow numpy tkinterdnd2 scikit-learn`
+You will need `Pillow`, `NumPy`, `TkinterDnD2`, `scikit-learn`, and `matplotlib`:
+- `pip install pillow numpy tkinterdnd2 scikit-learn matplotlib`
+
+Or use the included `requirements.txt` when creating your virtual enviroment.
 
 </details>
