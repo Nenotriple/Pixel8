@@ -18,13 +18,12 @@
 # 📝 Usage
 
 > [!NOTE]
->  - Supported image types: `.png` `.jpg` `.jpeg` `.jfif` `.jpg_large` `.webp` `.bmp`
+>  - Supported image types: `.png` `.webp` `.jpg` `.jpeg` `.jpg_large` `.bmp` `.jfif` `.tiff` `.tif` `.ico`
 
 This tool is designed to be used with AI-generated images in the pixel art style. It's common for these images to be generated with *mushed* colors and/or sloppy pixel shaping. Processing those images with this tool can enhance the pixel art style, and improve image quality.
 
 
 ---
-![Before__After_100](https://github.com/user-attachments/assets/7f83550c-0176-4131-a378-cb0ff169085a)
 
 ![Before__After_400](https://github.com/user-attachments/assets/58413593-61ce-424b-989b-257c862fd8c3)
 
@@ -32,15 +31,33 @@ This tool is designed to be used with AI-generated images in the pixel art style
 # 💡 Tips and Features
 
 
-Drag-and-Drop images into the entry fields to quickly add their path:
+<details>
+  <summary>Drag-and-Drop files into input fields...</summary>
+  
+![Drag images to input fields](https://github.com/user-attachments/assets/14864cd6-f73e-4888-b779-c0460ad133ff)
 
-https://github.com/user-attachments/assets/0aa66199-5084-4c46-b0d2-fd60f10c4184
+</details>
 
----
+<details>
+  <summary>Use another image as the color palette...</summary>
+  
+![Use another image as the color palette](https://github.com/user-attachments/assets/7f55da6e-3620-44a1-88d9-850aa942ae93)
 
-Use any other image as a color palette, or pick from a list of predefined color palettes:
+</details>
 
-https://github.com/user-attachments/assets/8d687545-85f6-46a3-90b7-742a6b634b7a
+<details>
+  <summary>Pick from a list of pre-defined color palettes...</summary>
+  
+![Pre-defined custom palettes](https://github.com/user-attachments/assets/40bfce46-d387-4ddc-b23e-7b78b709b347)
+
+</details>
+
+<details>
+  <summary>Normal and Blend color modes...</summary>
+  
+![Normal and Blend color modes](https://github.com/user-attachments/assets/adf1504d-def0-400d-bde8-a6be065d9ca5)
+
+</details>
 
 
 # 🚩 Requirements
