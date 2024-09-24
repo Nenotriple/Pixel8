@@ -63,7 +63,7 @@ This tool is designed to be used with AI-generated images in the pixel art style
 # 🚩 Requirements
 
 > [!TIP]
-> You don't need to worry about any requirements with the Windows [💾portable/executable](https://github.com/Nenotriple/Pixel8/releases/tag/v1.00) version.
+> You don't need to worry about any requirements with the Windows [💾portable/executable](https://github.com/Nenotriple/Pixel8/releases?q=executable&expanded=true) version.
 
 <details>
   <summary>Python requirements...</summary>
