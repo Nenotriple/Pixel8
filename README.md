@@ -30,6 +30,15 @@ This tool is designed to be used with AI-generated images in the pixel art style
 
 # 💡 Tips and Features
 
+<details>
+  <summary>Add to custom palette list...</summary>
+
+1) Create a folder named `Palettes` in the same directory as the app.
+2) Place any `PNG` image into the `Palettes` folder.
+3) Restart the app and it will scan the `Palettes` folder for new images.
+4) Palettes will appear using their filename in the custom palette drop-down menu.
+
+</details>
 
 <details>
   <summary>Drag-and-Drop files into input fields...</summary>
